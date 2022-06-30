@@ -13,7 +13,7 @@ Social Network API is a backend API that uses mongoDB to allow the server to add
 * `open http://localhost:3001/api/ in Insomnia app.
 
 ## Demo
-![Application screenshot](https://github.com/Lukesturgill/social-network-api/blob/main/assets/insomniascreen.png.png?raw=true)
+![Application screenshot](https://github.com/Lukesturgill/social-network-api/blob/main/assets/insomniascreen.png?raw=true)
 
 ###
 * Video demo
